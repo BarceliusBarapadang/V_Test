@@ -42,8 +42,8 @@
 	"akses etc pakai nama domain":{
 		"langkah 1":"test ping ke cloningan(berhasil)",
 		"langkah 2":"ketik nano /etc/hosts",
-		"langkah 3":"pada tampilan, tambahkan ip virtual clone beserta nama contoh '192.168.1.1 arpha' kemudia simpan",
-		"langkah 4":"coba akses dengan ssh arpha@jd1(milik cloningan)",
+		"langkah 3":"pada tampilan, tambahkan ip virtual clone beserta nama contoh",
+		"langkah 4":"coba akses dengan ssh",
 		"langkah 5":"jika berhasil, pilih yes dan masukan password dari vm cloningan"
 	}
 }
